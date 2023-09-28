@@ -1,0 +1,15 @@
+C:\Users\jbenavides\source\repos\Poo-carro\bin\Debug\net6.0\Poo-carro.exe
+C:\Users\jbenavides\source\repos\Poo-carro\bin\Debug\net6.0\Poo-carro.deps.json
+C:\Users\jbenavides\source\repos\Poo-carro\bin\Debug\net6.0\Poo-carro.runtimeconfig.json
+C:\Users\jbenavides\source\repos\Poo-carro\bin\Debug\net6.0\Poo-carro.dll
+C:\Users\jbenavides\source\repos\Poo-carro\bin\Debug\net6.0\Poo-carro.pdb
+C:\Users\jbenavides\source\repos\Poo-carro\obj\Debug\net6.0\Poo-carro.csproj.AssemblyReference.cache
+C:\Users\jbenavides\source\repos\Poo-carro\obj\Debug\net6.0\Poo-carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbenavides\source\repos\Poo-carro\obj\Debug\net6.0\Poo-carro.AssemblyInfoInputs.cache
+C:\Users\jbenavides\source\repos\Poo-carro\obj\Debug\net6.0\Poo-carro.AssemblyInfo.cs
+C:\Users\jbenavides\source\repos\Poo-carro\obj\Debug\net6.0\Poo-carro.csproj.CoreCompileInputs.cache
+C:\Users\jbenavides\source\repos\Poo-carro\obj\Debug\net6.0\Poo-carro.dll
+C:\Users\jbenavides\source\repos\Poo-carro\obj\Debug\net6.0\refint\Poo-carro.dll
+C:\Users\jbenavides\source\repos\Poo-carro\obj\Debug\net6.0\Poo-carro.pdb
+C:\Users\jbenavides\source\repos\Poo-carro\obj\Debug\net6.0\Poo-carro.genruntimeconfig.cache
+C:\Users\jbenavides\source\repos\Poo-carro\obj\Debug\net6.0\ref\Poo-carro.dll
